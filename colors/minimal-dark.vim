@@ -1,7 +1,7 @@
 hi clear
 syntax enable
 
-let colors_name = "dark-mode"
+let colors_name = "minimal-dark"
 
 set background=dark
 set fillchars=stl:\ ,stlnc:\ ,vert:\|,fold:-,diff:-

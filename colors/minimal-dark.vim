@@ -11,8 +11,8 @@ let &colorcolumn=join(range(81, 1000),",")
 " Windowing
 hi LineNr       guifg=#777777  guibg=NONE     gui=NONE
 hi VertSplit    guifg=#777777  guibg=#777777  gui=NONE
-hi StatusLine   guifg=#000000  guibg=#777777  gui=bold
-hi StatusLineNC guifg=#000000  guibg=#777777  gui=NONE
+hi StatusLine   guifg=#777777  guibg=#000000  gui=bold
+hi StatusLineNC guifg=#777777  guibg=#000000  gui=NONE
 
 " Auto-complete menu
 hi Pmenu        guifg=#000000  guibg=#999999   gui=NONE
